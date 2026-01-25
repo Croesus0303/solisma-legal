@@ -71,7 +71,7 @@ The site will be available at `https://croesus0303.github.io/tarotum-legal/` wit
 
 Before publishing, update the following placeholders:
 
-- `support@tarotum.app` - Replace with your actual support email
+- `tarotumusa@hotmail.com` - Replace with your actual support email
 - Developer/company name if needed in legal documents
 - Any pricing information if it changes
 
