@@ -1,6 +1,6 @@
-# Tarotum Legal Documents
+# Solisma Legal Documents
 
-Legal documents and support pages for the Tarotum iOS app.
+Legal documents and support pages for the Solisma iOS app.
 
 ## Overview
 
@@ -19,28 +19,28 @@ After enabling GitHub Pages, the documents will be available at:
 
 | Document | English | Turkish |
 |----------|---------|---------|
-| Landing Page | https://croesus0303.github.io/tarotum-legal/ | - |
-| Privacy Policy | https://croesus0303.github.io/tarotum-legal/en/privacy-policy.html | https://croesus0303.github.io/tarotum-legal/tr/privacy-policy.html |
-| Terms of Service | https://croesus0303.github.io/tarotum-legal/en/terms-of-service.html | https://croesus0303.github.io/tarotum-legal/tr/terms-of-service.html |
-| Support | https://croesus0303.github.io/tarotum-legal/en/support.html | https://croesus0303.github.io/tarotum-legal/tr/support.html |
-| Disclaimer | https://croesus0303.github.io/tarotum-legal/en/disclaimer.html | https://croesus0303.github.io/tarotum-legal/tr/disclaimer.html |
+| Landing Page | https://croesus0303.github.io/solisma-legal/ | - |
+| Privacy Policy | https://croesus0303.github.io/solisma-legal/en/privacy-policy.html | https://croesus0303.github.io/solisma-legal/tr/privacy-policy.html |
+| Terms of Service | https://croesus0303.github.io/solisma-legal/en/terms-of-service.html | https://croesus0303.github.io/solisma-legal/tr/terms-of-service.html |
+| Support | https://croesus0303.github.io/solisma-legal/en/support.html | https://croesus0303.github.io/solisma-legal/tr/support.html |
+| Disclaimer | https://croesus0303.github.io/solisma-legal/en/disclaimer.html | https://croesus0303.github.io/solisma-legal/tr/disclaimer.html |
 
 ## App Store Connect Configuration
 
 Use these URLs in App Store Connect:
 
 ### For English Localization
-- **Privacy Policy URL:** `https://croesus0303.github.io/tarotum-legal/en/privacy-policy.html`
-- **Support URL:** `https://croesus0303.github.io/tarotum-legal/en/support.html`
+- **Privacy Policy URL:** `https://croesus0303.github.io/solisma-legal/en/privacy-policy.html`
+- **Support URL:** `https://croesus0303.github.io/solisma-legal/en/support.html`
 
 ### For Turkish Localization
-- **Privacy Policy URL:** `https://croesus0303.github.io/tarotum-legal/tr/privacy-policy.html`
-- **Support URL:** `https://croesus0303.github.io/tarotum-legal/tr/support.html`
+- **Privacy Policy URL:** `https://croesus0303.github.io/solisma-legal/tr/privacy-policy.html`
+- **Support URL:** `https://croesus0303.github.io/solisma-legal/tr/support.html`
 
 ## Directory Structure
 
 ```
-tarotum-legal/
+solisma-legal/
 ├── index.html                    # Landing page with language switcher
 ├── en/
 │   ├── privacy-policy.html       # Privacy Policy (English)
@@ -65,7 +65,7 @@ tarotum-legal/
 4. Select **main** branch and **/ (root)** folder
 5. Click **Save**
 
-The site will be available at `https://croesus0303.github.io/tarotum-legal/` within a few minutes.
+The site will be available at `https://croesus0303.github.io/solisma-legal/` within a few minutes.
 
 ## Customization
 
@@ -97,6 +97,6 @@ Before publishing, update the following placeholders:
 
 ## License
 
-Copyright © 2025 Tarotum. All rights reserved.
+Copyright © 2025 Solisma. All rights reserved.
 
-These legal documents are proprietary to Tarotum and should not be used for other applications without modification.
+These legal documents are proprietary to Solisma and should not be used for other applications without modification.
