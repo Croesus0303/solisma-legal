@@ -9,7 +9,7 @@ This repository contains all the legal documents required for App Store submissi
 - **Privacy Policy** - Data collection and handling practices
 - **Terms of Service** - Usage rules, subscription terms, and legal agreements
 - **Support Page** - Help center with FAQs and contact information
-- **Entertainment Disclaimer** - Important information about tarot readings
+- **Entertainment Disclaimer** - Important information about personal insight readings
 
 All documents are available in **English** and **Turkish**.
 
@@ -88,7 +88,7 @@ Before publishing, update the following placeholders:
 - ✅ Privacy Policy (App Store Guidelines 5.1.1)
 - ✅ Terms of Service with subscription terms (App Store Guidelines 3.1.2)
 - ✅ Support URL with contact information
-- ✅ Entertainment disclaimer for tarot/advisory services
+- ✅ Entertainment disclaimer for personal insight services
 - ✅ Auto-renewable subscription disclosure
 - ✅ In-app purchase terms
 - ✅ Data collection and usage disclosure
